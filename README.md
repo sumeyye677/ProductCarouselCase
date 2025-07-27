@@ -130,11 +130,11 @@ A responsive product recommendation carousel that integrates seamlessly with LC 
 
 ## 📝 Browser Compatibility
 
-- ✅ Chrome (Recommended)
-- ✅ Firefox
-- ✅ Safari
-- ✅ Edge
-- ✅ Mobile browsers
+- Chrome (Recommended)
+- Firefox
+- Safari
+- Edge
+- Mobile browsers
 
 ## 🔍 Troubleshooting
 
