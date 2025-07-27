@@ -24,9 +24,15 @@ A responsive product recommendation carousel that integrates seamlessly with LC 
 
 ### Quick Setup
 1. Navigate to any **product page** on [LC Waikiki](https://www.lcwaikiki.com)
-2. Open Chrome Developer Tools (F12)
-3. Go to Console tab
-4. Paste the JavaScript code and press Enter
+2. Choose a product to redirect the user to Product Page (ex: 
+3. Open Chrome Developer Tools (F12)
+4. Go to Console tab
+5. Paste the JavaScript code and press Enter
+6. For more usage, clear the Carousel, copy and paste this code block: **document.querySelector('.product-carousel-container')?.remove();**
+7. Then, main code can be pasted.
+
+![lccarpousel](https://github.com/user-attachments/assets/65d9cf29-0b4c-4ae7-9167-49761e66c3bb)
+
 
 ### Important Notes
 - ⚠️ **Only works on product pages** - The carousel will only initialize on pages containing the `.product-detail` element
